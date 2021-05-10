@@ -1,5 +1,5 @@
 # GitHub_na_pratica
-Curso de github na prática.  Udemy. Professor Matheus Batttisti
+Curso de github na prática.  Udemy. Professor Matheus Battisti
 
 #  Vs 1.0 - Contempla:
 _**Função 1**_  
