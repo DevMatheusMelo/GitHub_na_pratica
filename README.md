@@ -2,7 +2,6 @@
 Curso de github na prática.  Udemy. Professor Matheus Batttisti
 
 #  Vs 1.0 - Contempla:
-Função 1
-Função 2
-Função 3
-
+_**Função 1**_  
+_**Função 2**_  
+_**Função 3**_  
